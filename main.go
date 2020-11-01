@@ -359,3 +359,5 @@ func New() BridgeStream {
 	stream.Clear()
 	return stream
 }
+
+func main(){}
