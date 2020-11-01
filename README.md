@@ -11,6 +11,6 @@ and efficiently.
 
 Check out the [python implementation](https://github.com/Gnarly-Games/python-bridgestream) if you need a slower language.
 
-Check out the [C# implementation](https://github.com/Gnarly-Games/csharp-bridgestream) if you are not a hyper-casual game developer.
+Check out the [C# implementation](https://github.com/Gnarly-Games/csharp-bridgestream) if you love typing.
 
 <img src="https://i.redd.it/u3mtiwyfn8p01.jpg" alt="how-this-works" width=600 />
